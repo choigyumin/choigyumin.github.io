@@ -1,0 +1,50 @@
+title: Olvidar Blog
+email: choigyumin@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Techtopia believer,
+  Interest in Artificial Intelligence,
+  Big fan of bash/vim,
+  Stay curious about everything.
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Gyumin Paul Choi # add your name
+author-pic: adam-face.jpg
+about-author: Gyumin Choi. Have great interest in startup based on cool technologies. Want to contribute on AI tech. Live in Seoul, South Korea. 
+
+# Contact links
+email: choigyumin@gmail.com # Add your Email address
+phone: +82-10-5195-2047 # Add your Phone number
+website: # Add your website, do not add http://
+linkedin: gyuminchoi # Add your Linkedin handle
+github: choigyumin # Add your Github handle
+twitter:  # Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: disqus_FPOQG9kQfA # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
