@@ -4,7 +4,7 @@ title: First Upload
 date: 2018-04-25 15:28:00 +0300
 description: first description test  # Add post description (optional)
 img: post-6.jpg # Add image post (optional)
-tags: [Blog]
+tags: [Blog, Meditation]
 author: Gyumin Choi # Add name author (optional)
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
