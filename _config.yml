@@ -12,7 +12,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Gyumin Paul Choi # add your name
 author-pic: gm-face.jpg
-about-author: Have great interest in startup based on cool technologies. // Want to contribute on AI tech. // Live in Seoul, South Korea. 
+about-author: > 
+  Have great interest in startup based on cool technologies. 
+   // Want to contribute on AI tech. 
+   // Live in Seoul, South Korea. 
 
 # Contact links
 email: choigyumin@gmail.com # Add your Email address
@@ -35,7 +38,7 @@ discus_identifier: disqus_FPOQG9kQfA # Add your discus identifier
 analytics: # Google Analytics
 
 # Paginate
-paginate: 6
+paginate: 8
 paginate_path: /page:num/
 
 # Build settings
