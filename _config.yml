@@ -94,7 +94,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
   linkedin: true
@@ -126,7 +126,7 @@ share-links-active:
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "disqus_FPOQG9kQfA"
+disqus: "FPOQG9kQfA"
 # If you want to use just-comments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
 
