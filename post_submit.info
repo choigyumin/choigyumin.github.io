@@ -1,9 +1,0 @@
-1. in the _post folder, make new markdown file.
-
-2. create post.
-
-3. update git
-
-gaa # git add --all
-gcmsg "msg" # git commit -m "text"
-gp origin master # git push origin master
